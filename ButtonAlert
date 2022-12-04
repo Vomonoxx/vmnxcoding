@@ -1,0 +1,7 @@
+<!doctype html> 
+<html> 
+<head> 
+<body> 
+<h2> what is that? </h2> <input type="button" value="click here!" onclick="alert ('subscribe :]') " >
+</body> 
+</html>
